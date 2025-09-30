@@ -17,9 +17,13 @@ The purpose of this project is to demonstrate a clean website structure with HTM
 ## Project Structure
 project-folder/
 │
+
 ├── index.html # Main HTML file (all content and structure)
+
 ├── style.css # Stylesheet (colors, layout, responsive design)
+
 ├── script.js # JavaScript (form handling, interactivity)
+
 └── README.md # Project documentation
 
 
